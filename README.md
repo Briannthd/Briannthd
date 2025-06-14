@@ -16,6 +16,7 @@
   - Secure Web Development 🌐
 - 🌱 Learning: Exploitation, Malware Analysis, Kernel Security
 
+- Languages Spoken: Vietnamese · English (fluent) · Chinese 中文 (intermediate)
 ---
 
 ## 🧰 Tech Toolbox
