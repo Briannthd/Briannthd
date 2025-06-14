@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/brianhung/brianhung/blob/main/assets/hacker-banner.gif" width="100%" alt="Cyberpunk Hacker Banner" />
+</p>
+
 <h1 align="center">🚀 Do Tan Hung (aka Brian) 🚀</h1>
 <h3 align="center">💻 Information Security Student | 🤖 AI Enthusiast | 🌐 Web Explorer</h3>
 
