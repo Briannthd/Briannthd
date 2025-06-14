@@ -1,12 +1,27 @@
-# 👋 Hi there, I'm Do Tan Hung. You can call me Brian.
+<h1 align="center">🚀 Do Tan Hung (aka Brian) 🚀</h1>
+<h3 align="center">💻 Information Security Student | 🤖 AI Enthusiast | 🌐 Web Explorer</h3>
 
-I'm a **third-year Information Security student at Posts and Telecommunications Institute of Technology**, passionate about cybersecurity, ethical hacking, and open source!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Third-year+InfoSec+student+at+PTIT;Love+Security+%26+Hacking;Always+learning%2C+breaking%2C+and+fixing!" alt="Typing SVG" />
+</p>
 
-## 🔧 Skills
-- 🛡️ Information Security
-- 🐍 Python, Bash, C++, Java
-- 💻 Linux, Networking, GDB
+---
 
-## 📫 Contact
-- Email: dotanhung0505@gmail.com
-- GitHub: [Briannthd](https://github.com/Briannthd)
+## 🧠 About Me
+
+- 🎓 Currently studying **Information Security** at [PTIT](https://ptit.edu.vn/)
+- 👨‍💻 Passionate about:
+  - Ethical Hacking & CTFs 🕵️‍♂️
+  - Machine Learning in Cybersecurity 🤖
+  - Secure Web Development 🌐
+- 🛠 Constantly building tools & testing boundaries
+- 🌱 Learning: Exploitation, Malware Analysis, Kernel Security
+
+---
+
+## 🧰 Tech Toolbox
+
+```txt
+💻 Languages:    Python · C/C++ · Bash · Java
+🛡 Security:     Metasploit · Ghidra · Burp Suite · Wireshark
+🖥 Platforms:    Linux · Docker · Wazuh · Git · GitHub Actions
