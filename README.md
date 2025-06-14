@@ -11,10 +11,9 @@
 
 - 🎓 Currently studying **Information Security** at [PTIT](https://ptit.edu.vn/)
 - 👨‍💻 Passionate about:
-  - Ethical Hacking & CTFs 🕵️‍♂️
+  - Ethical Hacking 🕵️‍♂️
   - Machine Learning in Cybersecurity 🤖
   - Secure Web Development 🌐
-- 🛠 Constantly building tools & testing boundaries
 - 🌱 Learning: Exploitation, Malware Analysis, Kernel Security
 
 ---
