@@ -43,7 +43,7 @@ I am currently looking for a **Cybersecurity Internship** where I can apply my t
 **Engineer of Information Security — Undergraduate**  
 Sep 2022 – Present
 
-- GPA: **3.21 / 4.0**
+- GPA: **3.36 / 4.0**
 - Major: **Information Security**
 - Relevant Coursework:
   - Network Security
